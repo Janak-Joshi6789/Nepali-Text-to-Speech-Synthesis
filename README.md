@@ -44,6 +44,6 @@ Khwopa Engineering College
 
 📜 License
 
-This project is for academic purposes only (7th Semester Project).
+This project is for academic purposes only (final year Project).
 You are free to reuse and extend with proper citation.
 
