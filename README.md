@@ -22,14 +22,6 @@ Wav2Vec2 / DeepSpeech / Custom Models
 
 Librosa, Torchaudio, NumPy, Pandas
 
-📈 Evaluation
-
-We evaluate the system using:
-
-Word Error Rate (WER)
-
-Character Error Rate (CER)
-
 
 👨‍🎓 Project Team
 
